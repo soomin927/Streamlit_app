@@ -8,14 +8,14 @@ from io import BytesIO
 # --------------------------------------------------
 st.set_page_config(
     page_title="Multilingual TTS",
-    page_icon="🔊",
+    page_icon="❄️",
     layout="centered"
 )
 
 # --------------------------------------------------
 # Title
 # --------------------------------------------------
-st.title("🎵 MK's Multilingual TTS")
+st.title("🎵 SM's Multilingual TTS")
 
 st.write(
     "Generate speech using Streamlit, "
